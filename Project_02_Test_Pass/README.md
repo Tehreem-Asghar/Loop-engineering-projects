@@ -53,6 +53,13 @@ The lesson: **the loop stops because the checker said pass, not because it
 ran out of tries.** If it kept hitting the 6-try cap, that is a signal the
 stop condition (or the maker's instructions) needed work — not a "success."
 
+
+**command of clude code**   
+```
+/goal Fix the failing tests in test_calculator.py. Run pytest after each fix and keep working until all tests pass, maximum 6 tries.
+
+```
+
 ## Outcome of this run
 
 The maker fixed all five functions in a single try; `pytest` reported
