@@ -1,5 +1,0 @@
-# Runtime artifacts produced by long_task.sh / watch loop — not source
-result.txt
-announced.txt
-task.log
-*.log
